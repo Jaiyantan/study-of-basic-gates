@@ -1,4 +1,7 @@
-### study-of-basic-gates
+### STUDY OF BASIC GATES
+
+### NAME:- JAIYANTAN S
+### REG_NO :- 212224100021
 
 **AIM:** 
 
